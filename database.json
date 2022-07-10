@@ -1,0 +1,28 @@
+{
+  "chat": [
+    {
+      "chat":"120363041607764234@g.us",
+      "access": true,
+      "antilink": false,
+      "high_feature": true,
+      "nfsw": false,
+      "only_id": true
+    },
+    {
+      "chat":"120363024278036708@g.us",
+      "access": true,
+      "antilink": false,
+      "high_feature": true,
+      "nfsw": false,
+      "only_id": true
+    },
+    {
+      "chat":"6281233876733-1631544175@g.us",
+      "access": false,
+      "antilink": false,
+      "high_feature": true,
+      "nfsw": false,
+      "only_id": true
+    }
+  ]
+}

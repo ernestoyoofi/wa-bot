@@ -1,0 +1,36 @@
+{
+  "name": "bot-whatsapp",
+  "version": "1.50.1",
+  "description": "WhatsApp API For Bot With Baileys MD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestoyoofi/wa-bot.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Bot",
+    "Nodejs",
+    "Javascript",
+    "Adiwajshing/baileys",
+    "WhatsApp-Bot",
+    "Whatsapp-Api"
+  ],
+  "author": "Ernestoyoofi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestoyoofi/wa-bot/issues"
+  },
+  "homepage": "https://github.com/ernestoyoofi/wa-bot#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.2.0",
+    "@hapi/boom": "^10.0.0",
+    "axios": "^0.27.2",
+    "brainly-scraper-v2": "^2.0.13",
+    "google-it": "^1.6.3",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
